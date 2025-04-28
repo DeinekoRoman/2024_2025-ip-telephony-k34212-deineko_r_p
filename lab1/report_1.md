@@ -3,7 +3,7 @@ Faculty: [FICT](https://fict.itmo.ru)
 Course: [IP-telephony](https://itmo-ict-faculty.github.io/ip-telephony/)  
 Year: 2024/2025  
 Group: K34212  
-Author: Deineko Roman Pavlovich
+Author: Deineko Roman Pavlovich  
 Lab: Lab1  
 Date of create: 28.04.2025  
 Date of finished: 28.04.2024  
