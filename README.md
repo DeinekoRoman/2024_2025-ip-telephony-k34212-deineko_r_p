@@ -1,0 +1,1 @@
+# 2024_2025-ip-telephony-k34212-deineko_r_p
